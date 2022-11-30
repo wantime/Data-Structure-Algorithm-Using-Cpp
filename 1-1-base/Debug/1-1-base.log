@@ -1,0 +1,4 @@
+﻿  1-1-base.cpp
+E:\code\cpp\1-1-base\1-1-base.cpp(209,16): warning C4244: “=”: 从“time_t”转换到“unsigned long”，可能丢失数据
+E:\code\cpp\1-1-base\1-1-base.cpp(405,9): warning C4309: “=”: 截断常量值
+  1-1-base.vcxproj -> E:\code\cpp\1-1-base\Debug\1-1-base.exe

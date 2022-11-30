@@ -1,0 +1,19 @@
+# ninja log v5
+0	383	6883652095333527	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+385	561	6883652097099383	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb
+2	254	6883654971254629	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+254	344	6883654972147121	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb
+2	257	6883677928598119	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+257	347	6883677929486026	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb
+3	258	6883678769445290	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+258	349	6883678770343162	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb
+3	345	6883907134603385	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+346	454	6883907135670526	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb
+3	329	6883907601952923	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+329	424	6883907602890409	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb
+2	330	6883907741624052	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+331	427	6883907742571514	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb
+3	320	6883924516977796	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+321	416	6883924517922441	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb
+2	382	6884516977886409	CMakeFiles/06_Traverse_in_BST.dir/main.cpp.obj	7ce3f7db4d101fdc
+382	558	6884516979635213	06_Traverse_in_BST.exe	861e8a0fe1c2c6fb

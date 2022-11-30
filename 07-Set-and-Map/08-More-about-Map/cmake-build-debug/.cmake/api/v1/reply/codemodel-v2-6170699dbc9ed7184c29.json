@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "08_More_about_Map",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "08_More_about_Map::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08_More_about_Map-Debug-370311b6d5f0e86fd4a4.json",
+					"name" : "08_More_about_Map",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/code/cpp/Data-Structure-Algorithm-Using-cpp/07-Set-and-Map/08-More-about-Map/cmake-build-debug",
+		"source" : "E:/code/cpp/Data-Structure-Algorithm-Using-cpp/07-Set-and-Map/08-More-about-Map"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -37,7 +37,14 @@ public:
         size = 0;
         capacity = 5;
     }
-
+    Array(T arr[], int n){
+        data = new T[n];
+        size = n;
+        for(int i = 0; i < n; i ++){
+            data[i] = arr[i];
+        }
+        capacity = n;
+    }
     int getCapacity() {
         return capacity;
     }

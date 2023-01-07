@@ -50,6 +50,13 @@ public:
     MaxHeap(){
         data = new Array<T>();
     }
+
+    MaxHeap(T arr[], int n){
+        data = new Array<T>(arr, n);
+        for(int i = parent(n-1); i >= 0; i--){
+            shiftDown(i);
+        }
+    }
     int size(){
         return data->getSize();
     }
@@ -74,6 +81,13 @@ public:
         shiftDown(0);
         return ret;
     };
+
+    T replace(T e){
+        T ret = findMax();
+        data->set(0, e);
+        shiftDown(0);
+        return ret;
+    }
 };
 
 

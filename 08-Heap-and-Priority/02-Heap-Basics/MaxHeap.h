@@ -6,33 +6,27 @@
 #define INC_02_HEAP_BASICS_MAXHEAP_H
 
 #include "Array.h"
+
+
 template<class T>
 class MaxHeap{
 private:
     Array<T> *data;
-
     // 返回完全二叉树的数组表示中，一个索引所代表的左孩子节点的索引
     int leftChild(int index){
-        return index*2 + 1;
+        return index*2+1;
     }
-
     // 返回完全二叉树的数组表示中，一个索引所代表的右孩子节点的索引
     int rightChild(int index){
-        return index*2 + 2;
+        return index*2+2;
     }
-
     // 返回完全二叉树的数组表示中，一个索引代表的父亲节点的索引
     int parent(int index){
-        if(index == 0){
-            throw NoParent();
-        }
-        return (index-1) / 2;
+        return (index - 1) / 2;
     }
-public:
-    class NoParent{
-    };
 
-    MaxHeap(int capacity){
+public:
+    MaxHeap(int capacity) {
         data = new Array<T>(capacity);
     }
     MaxHeap(){
@@ -47,7 +41,7 @@ public:
     bool isEmpty(){
         return data->isEmpty();
     }
-
 };
+
 
 #endif //INC_02_HEAP_BASICS_MAXHEAP_H

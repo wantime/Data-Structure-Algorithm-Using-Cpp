@@ -30,19 +30,7 @@ private:
             k = parent(k);
         }
     }
-    void shiftDown(int k){
-        while (leftChild(k) < data->getSize()) {
 
-            int j = leftChild(k);
-            if (j + 1 < data->getSize() && data->get(j) < data->get(j + 1))
-                j = j + 1;
-
-            if(data->get(k) > data->get(j))
-                break;
-            data->swap(k, j);
-            k = j;
-        }
-    }
 public:
     MaxHeap(int capacity) {
         data = new Array<T>(capacity);
@@ -63,17 +51,6 @@ public:
         data->addLast(e);
         shiftUp(data->getSize() - 1);
     }
-    T findMax() {
-        return data->get(0);
-    }
-    T extractMax(){
-        T ret = findMax();
-
-        data->swap(0, data->getSize() - 1);
-        data->removeLast();
-        shiftDown(0);
-        return ret;
-    };
 };
 
 

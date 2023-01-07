@@ -133,6 +133,16 @@ public:
         std::cout<<"Array size = " << size << ", capacity = " << capacity << std::endl;
         toPrint();
     }
+
+    void swap(int i, int j){
+        if(i < 0 || i >= size || j < 0 || j >= size)
+            throw Range();
+
+        T t = data[i];
+        data[i] = data[j];
+        data[j] = t;
+    }
+
     void toPrint(){
         std::cout<< "[";
         for(int i = 0; i < size; ++i){

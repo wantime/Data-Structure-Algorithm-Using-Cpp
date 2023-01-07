@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07_Priority_Queue_Problems_in_Leetcode",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Priority_Queue_Problems_in_Leetcode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Priority_Queue_Problems_in_Leetcode-Debug-3d0d545748498dcd358c.json",
+					"name" : "07_Priority_Queue_Problems_in_Leetcode",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/code/cpp/Data-Structure-Algorithm-Using-Cpp/08-Heap-and-Priority/07-Priority-Queue-Problems-in-Leetcode/cmake-build-debug",
+		"source" : "E:/code/cpp/Data-Structure-Algorithm-Using-Cpp/08-Heap-and-Priority/07-Priority-Queue-Problems-in-Leetcode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

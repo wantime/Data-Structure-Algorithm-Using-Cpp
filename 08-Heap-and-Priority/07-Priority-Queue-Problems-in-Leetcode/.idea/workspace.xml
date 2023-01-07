@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8923a0d8-cf38-4193-bb4f-0e261d5bd483" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../03-Add-and-Shift-Up-in-Heap/.idea/03-Add-and-Shift-Up-in-Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-Add-and-Shift-Up-in-Heap/Array.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-Add-and-Shift-Up-in-Heap/MaxHeap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Extract-and-Shift-Down-in-Heap/.idea/04-Extract-and-Shift-Down-in-Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Extract-and-Shift-Down-in-Heap/Array.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-Extract-and-Shift-Down-in-Heap/MaxHeap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Heapify-and-Replace-in-Heap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Heapify-and-Replace-in-Heap/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Heapify-and-Replace-in-Heap/.idea/05-Heapify-and-Replace-in-Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Heapify-and-Replace-in-Heap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Heapify-and-Replace-in-Heap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Heapify-and-Replace-in-Heap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Heapify-and-Replace-in-Heap/Array.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Heapify-and-Replace-in-Heap/MaxHeap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/.idea/06-Priority-Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/Array.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/MaxHeap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/PriorityQueue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/PriorityQueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/Queue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/.cmake/api/v1/reply/cache-v2-fc7e3885fb66d8b4615f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-879ae172463b8b264ea5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-Priority-Queue/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Heap-Basics/Array.h" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Heap-Basics/Array.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Heap-Basics/MaxHeap.h" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Heap-Basics/MaxHeap.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Heap-Basics/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-02T05-02-19-0727.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Heap-Basics/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Heap-Basics/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Heap-Basics/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Heap-Basics/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.4" />
+  </component>
+  <component name="ProjectId" id="2JzTBZYwiY0Od8X9QcUCilekYf0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8923a0d8-cf38-4193-bb4f-0e261d5bd483" name="Changes" comment="" />
+      <created>1673079776465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673079776465</updated>
+      <workItem from="1673079778078" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

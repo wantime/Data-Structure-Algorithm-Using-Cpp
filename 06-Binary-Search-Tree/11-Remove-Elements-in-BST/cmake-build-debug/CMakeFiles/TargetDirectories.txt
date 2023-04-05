@@ -1,3 +1,0 @@
-E:/code/cpp/Data-Structure/06-Binary-Search-Tree/11-Remove-Elements-in-BST/cmake-build-debug/CMakeFiles/11_Remove_Elements_in_BST.dir
-E:/code/cpp/Data-Structure/06-Binary-Search-Tree/11-Remove-Elements-in-BST/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/code/cpp/Data-Structure/06-Binary-Search-Tree/11-Remove-Elements-in-BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir

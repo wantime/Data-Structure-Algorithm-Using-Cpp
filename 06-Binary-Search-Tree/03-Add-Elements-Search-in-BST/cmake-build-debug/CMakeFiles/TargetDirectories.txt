@@ -1,3 +1,0 @@
-E:/code/cpp/Data-Structure/06-Binary-Search-Tree/03-Add-Elements-Search-in-BST/cmake-build-debug/CMakeFiles/03_Add_Elements_in_BST.dir
-E:/code/cpp/Data-Structure/06-Binary-Search-Tree/03-Add-Elements-Search-in-BST/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/code/cpp/Data-Structure/06-Binary-Search-Tree/03-Add-Elements-Search-in-BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir

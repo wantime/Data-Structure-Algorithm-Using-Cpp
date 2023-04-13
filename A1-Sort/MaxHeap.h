@@ -1,9 +1,7 @@
-//
-// Created by BsWY on 2022/9/28.
-//
 
-#ifndef PLAY_DATA_STRUCT_BY_CPP_HEAP_H
-#define PLAY_DATA_STRUCT_BY_CPP_HEAP_H
+
+#ifndef PLAY_DATA_STRUCT_BY_CPP_MAXHEAP_H
+#define PLAY_DATA_STRUCT_BY_CPP_MAXHEAP_H
 
 #include <iostream>
 #include <cassert>
@@ -23,7 +21,7 @@ private:
         Item v = data[k];
         while (k > 1 && data[k / 2] < v) {
             data[k] = data[k / 2];
-            //swap(data[k / 2], data[k]);
+            swap(data[k / 2], data[k]);
             k /= 2;
         }
         data[k] = v;
@@ -405,4 +403,4 @@ public:
 
 };
 
-#endif //PLAY_DATA_STRUCT_BY_CPP_HEAP_H
+#endif //PLAY_DATA_STRUCT_BY_CPP_MAXHEAP_H

@@ -1,6 +1,3 @@
-//
-// Created by BsWY on 2022/9/25.
-//
 
 #ifndef PLAY_DATA_STRUCT_BY_CPP_QUICKSORT_H
 #define PLAY_DATA_STRUCT_BY_CPP_QUICKSORT_H

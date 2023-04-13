@@ -1,10 +1,8 @@
-//
-// Created by BsWY on 2022/9/29.
-//
+
 
 #ifndef PLAY_DATA_STRUCT_BY_CPP_HEAPSORT_H
 #define PLAY_DATA_STRUCT_BY_CPP_HEAPSORT_H
-#include "Heap.h"
+#include "MaxHeap.h"
 template<typename T>
 void heapSort1(T arr[], int n) {
     MaxHeap<T> maxHeap = MaxHeap<T>(n);

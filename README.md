@@ -36,6 +36,9 @@
 滑动窗口
 12. Leetcode. 438 findAnagrams
 
+## A3-查找表
+Leetcode查找表相关问题
+C++中set(map)与unordred_set(map)的底层差别
 
 ## 01 数组
 不固定长度的动态数组，为防止复杂度振荡，数组收缩与扩展的数值应当有所区别

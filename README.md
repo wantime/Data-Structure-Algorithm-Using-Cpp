@@ -1,7 +1,7 @@
 # Data-Structure-Algorithm-Using-Cpp
 使用c++实现经典的算法与数据结构
 
-## A1 排序
+## A01 排序
 #### 冒泡排序
 #### 插入排序
 #### 归并排序
@@ -19,6 +19,22 @@
 1. 索引堆
 
  稳定排序：插入、归并
+
+## A02 操作数组(双指针相关)
+1. 二分查找法(循环不变量)
+2. floor实现
+3. ceil实现
+通向的指针(快慢)
+4. Leetcode.238 move-zeroes
+5. Leetcode.26 remove duplicated from sorted array
+6. Leetcode.80 remove duplicated from sorted array 2
+7. Leetcode.88 merge
+8. Leetcode.215 findKthLargest: 快排
+9. Leetcode.167 two sum 2-input sort array: 碰撞指针
+10. Leetcode.344 Reverse string
+11. Leetcode. 11 Container With Most Water
+滑动窗口
+12. Leetcode. 438 findAnagrams
 
 
 ## 01 数组

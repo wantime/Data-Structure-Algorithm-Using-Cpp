@@ -236,16 +236,7 @@ public:
         }
         return false;
     }
-    bool containsNearbyAlmostDuplicate_2(vector<int>& nums, int indexDiff, int valueDiff) {
-        unordered_map<int, int> rec;
-        for(int i = 0; i < nums.size(); i ++){
-            if(rec.find(nums[i]) != rec.end() && i - rec[nums[i]] <= indexDiff)
-                return true;
-            else
-                rec[nums[i]] = i;
-        }
-        return false;
-    }
+
 };
 int main() {
 
